@@ -6,7 +6,7 @@
   
   <h2> Call Us : anytime </h2>
   
-  <h3> Our Ofc Location : kolhapur </h3>
+  <h3> Jagat bhari amhi kolhapuri </h3>
 
 </body>
 </html>
